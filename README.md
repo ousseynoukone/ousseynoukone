@@ -125,7 +125,7 @@ A collection of AI experiments using **Keras Sequential** and **CNN models** for
 
 ## 🌍 Let’s Connect
 
-📫 **Email:** [ousseynou.kone.dev@gmail.com](mailto:ousseynou781227@gmail.com)
+📫 **Email:** [ousseynou781227@gmail.com](mailto:ousseynou781227@gmail.com)
 💼 **LinkedIn:** [linkedin.com/in/ousseynoukone](https://linkedin.com/in/ousseynoukone)
 💻 **Portfolio:** [ousseynoukone.github.io/portfolio](https://ousseynoukone.github.io/portfolio)
 🐙 **GitHub:** [github.com/ousseynoukone](https://github.com/ousseynoukone)
