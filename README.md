@@ -101,7 +101,7 @@ A **mobile-first learning network** connecting learners and experts, fostering k
 
 ---
 
-### 🌐 [Portfolio](https://github.com/ousseynoukone/portfolio.git)
+### 🌐 [Portfolio](https://ousseynou-kone-portfolio.vercel.app/home)
 
 My personal online portfolio built to **showcase projects, experience, and skills** as a Full Stack Developer.
 Designed for performance, responsiveness, and clean design.
