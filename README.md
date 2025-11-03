@@ -1,5 +1,3 @@
-Here’s a **professional and attractive GitHub profile README** for you, Ousseynou — crafted to highlight both your skills and your major projects from your CV and the repositories you shared 👇
-
 ---
 
 # 👋 Hi, I'm **Ousseynou Koné**
