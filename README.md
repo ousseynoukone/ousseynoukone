@@ -132,9 +132,6 @@ A collection of AI experiments using **Keras Sequential** and **CNN models** for
 
 ---
 
-> 💡 *“Technology is the closest thing to magic we have — and I love creating it.”*
+> 💡 *“Technology is our closest equivalent to magic; as a species, we've managed to understand the universe's core, and I love continually learning about this absurd reality.”*
 
 ---
-
-Would you like me to make this **Markdown-optimized (with badges, icons, and formatting for GitHub)** so you can directly copy-paste it into your profile README?
-It’ll look more visual and professional (e.g. with shields, section icons, and layout balance).
