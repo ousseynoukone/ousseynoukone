@@ -118,7 +118,7 @@ A collection of AI experiments using **Keras Sequential** and **CNN models** for
 
 ## 🏆 Certifications
 
-* 🎓 **CS50x – Introduction to Computer Science** (Harvard University)
+* 🎓 **[CS50x – Introduction to Computer Science](https://cs50.harvard.edu/certificates/750339f1-79ff-405e-bbda-5fd2de1ed5d1)** (Harvard University)
 * 🧩 Various Full Stack Development Courses & Personal Projects
 
 ---
