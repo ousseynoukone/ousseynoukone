@@ -11,7 +11,7 @@
 I’m a passionate **Full Stack Developer** currently pursuing a **Master’s in Expert Lead Full Stack Development** at **ITIC Paris**.
 With hands-on experience in **Java, Spring Boot, Node.js, Angular, React, and Flutter**, I specialize in crafting robust and scalable web & mobile applications — from backend architecture to elegant user interfaces.
 
-💼 I’m currently working as an **Apprentice Project Manager / Full Stack Developer** at **XKS Group (Cergy)**, where I handle backend development for a streaming platform, lead Flutter mobile projects, and standardize design systems across teams.
+💼 Experience as an Apprentice Project Manager / Full Stack Developer at XKS Group (Cergy), where I handled backend development for a streaming platform, led Flutter mobile projects, and contributed to design system standardization.
 
 💬 I believe in clean code, thoughtful design, and the power of technology to make everyday life simpler and smarter.
 
